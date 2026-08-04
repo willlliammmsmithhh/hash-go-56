@@ -6,3 +6,5 @@ Hashing functions for strings in Go.
 Clone this project and look at the source files:
 - `main.go`
 - `hash.go`
+
+*Initialized by willlliammmsmithhh workspace automation.*
